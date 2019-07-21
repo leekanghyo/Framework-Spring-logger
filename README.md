@@ -38,6 +38,14 @@
 
 <h3>[java Resources > src/main/java > Your java class (ex: ApplicationManager.java)]</h3>
     
+    package com.overload.application;
+    
+    import java.text.SimpleDateFormat;
+    import java.util.Date;
+    
+    import org.slf4j.Logger;
+    import org.slf4j.LoggerFactory;
+
     public final class ApplicationManager {
 
           private Logger log = LoggerFactory.getLogger(this.getClass());
