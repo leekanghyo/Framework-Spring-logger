@@ -3,7 +3,9 @@
 <p>
   Custom logger settings in Spring project
   
-  This is a note on the custom log class using Log4j in Spring MVC.
+  This is a note on the custom log class using Log4j in Spring MVC.<br>
+  The Log4j utility is automatically included when you create a Spring project.
+  If you have a development environment that does not automatically include Log4j, you will need to add it separately.<br><br>
   Class names and file names used names that I use often.
   Therefore, when using this information, you need to change the class name and file name.
   <br><br>
